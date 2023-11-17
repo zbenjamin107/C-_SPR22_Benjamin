@@ -1,3 +1,7 @@
+/*
+* @author zachary benjamin
+*/
+
 #include "SubGUIClass.h"
 
 SubGUIClass::SubGUIClass(wxWindow* parent)
